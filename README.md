@@ -17,8 +17,6 @@ The Bridge - The Bridge Digital Talent
 
 ---------
 
-This project studies the relationship between air quality and temperature. It is well-known that the increase in average temperatures due to climate change has a negative impact to air quality. 
-
 This project studies the relationship between air quality and temperature. It is well-known that the increase in average temperature due to climate change has a negative impact to air quality.
 
 In the past few years it has been discovered that these two concepts are highly related, more than previously assumed. However,their relationship is not due to greenhouses gases, they are mainly linked through temperature changes.
